@@ -11,6 +11,11 @@ Midas is an AI-powered expense intelligence project built as a full-stack system
 
 The app helps users automatically turn transactional emails into structured spend insights.
 
+<p align="center">
+	<img src="static/Screenshot%202026-07-10%20at%2011.02.41%E2%80%AFPM.png" alt="Midas Screenshot 1" width="320" />
+	<img src="static/Screenshot%202026-07-10%20at%2011.03.00%E2%80%AFPM.png" alt="Midas Screenshot 2" width="320" />
+</p>
+
 ## Project Structure
 
 ```text
@@ -123,12 +128,6 @@ These are current visual assets from the repository.
 ### Brand Lockup
 
 ![Midas Brand Lockup](midas-app/assets/exports/marketing/logo-lockup-1200x400.png)
-
-### App Visual Snapshots
-
-![Midas App Snapshot iOS](midas-app/assets/exports/ios/AppStore-1024.png)
-![Midas App Snapshot Android](midas-app/assets/exports/android/PlayStore-512.png)
-![Midas App Icon Snapshot](midas-app/assets/exports/marketing/icon-circle-1024.png)
 
 ## Tech Stack
 
